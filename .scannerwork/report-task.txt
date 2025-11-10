@@ -1,0 +1,6 @@
+projectKey=petclinic-frontend-carles
+serverUrl=http://localhost:9000
+serverVersion=25.10.0.114319
+dashboardUrl=http://localhost:9000/dashboard?id=petclinic-frontend-carles
+ceTaskId=69e7dd50-2f12-429f-8303-d218426334c3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=69e7dd50-2f12-429f-8303-d218426334c3
